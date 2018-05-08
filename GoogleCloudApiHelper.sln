@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GoogleCloudApiHelper.Example", "GoogleCloudApiHelper.Example\GoogleCloudApiHelper.Example.csproj", "{F8FEFFAD-168E-4204-929C-9E1668F9277B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoogleCloudApiHelper", "GoogleCloudApiHelper\GoogleCloudApiHelper.csproj", "{61190286-EE1D-4D5D-A42E-1FC70A7A2456}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F8FEFFAD-168E-4204-929C-9E1668F9277B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8FEFFAD-168E-4204-929C-9E1668F9277B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8FEFFAD-168E-4204-929C-9E1668F9277B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8FEFFAD-168E-4204-929C-9E1668F9277B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61190286-EE1D-4D5D-A42E-1FC70A7A2456}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61190286-EE1D-4D5D-A42E-1FC70A7A2456}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61190286-EE1D-4D5D-A42E-1FC70A7A2456}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61190286-EE1D-4D5D-A42E-1FC70A7A2456}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A3BCA1A2-4789-4B13-B662-CB33BB3539D6}
+	EndGlobalSection
+EndGlobal
